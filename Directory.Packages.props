@@ -19,7 +19,7 @@
     </PropertyGroup>
     
     <ItemGroup>
-        <PackageVersion Include="AsyncKeyedLock" Version="8.0.*" />
+        <PackageVersion Include="AsyncKeyedLock" Version="8.1.*" />
         <PackageVersion Include="CompareNETObjects" Version="4.83.0" />
         <PackageVersion Include="coverlet.collector" Version="6.0.2" />
         <PackageVersion Include="FluentAssertions" Version="8.*" />
